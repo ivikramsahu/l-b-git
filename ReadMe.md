@@ -1,4 +1,4 @@
-## Heyyo everyone, welcome to Git guide.
+## Welcome to Git!
 
 - What's up.! Vikram here.
-- I'm commit from `feature-branch`
+- I committed from `feature-branch`
