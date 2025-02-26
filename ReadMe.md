@@ -1,4 +1,4 @@
 ## Welcome to Git!
 
-- This is coming from `dev-viki`
-- I commit from `feature-branch`
+- What's up.! Vikram here.
+- I committed from `feature-branch`
